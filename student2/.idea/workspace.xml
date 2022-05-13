@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df2c29e6-1059-4b83-b941-1a0eaf1f8399" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../ E Commerce apllication/.idea/ E Commerce apllication.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Heaven_wall/heavens_wall/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Heaven_wall/heavens_wall/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Heaven_wall/heavens_wall/templates/website_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Heaven_wall/heavens_wall/templates/website_base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Heaven_wall/heavens_wall/website/templates/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Heaven_wall/heavens_wall/website/templates/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Heaven_wall/heavens_wall/website/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Heaven_wall/heavens_wall/website/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pythonProject14/LightCart/cartApp1/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pythonProject14/LightCart/cartApp1/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pythonProject2/framework/webapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pythonProject2/framework/webapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pythonProject2/framework/webapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pythonProject2/framework/webapp/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="296ZJqLW1a5zJxhF3LgAvBQfMJm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df2c29e6-1059-4b83-b941-1a0eaf1f8399" name="Changes" comment="" />
+      <created>1652435427473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652435427473</updated>
+    </task>
+    <servers />
+  </component>
+</project>
